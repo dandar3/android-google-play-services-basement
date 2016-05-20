@@ -1,18 +1,16 @@
-android-google-play-services-base
-=================================
+android-google-play-services-basement
+=====================================
 
 Eclipse library project based on:<br/>
 `ANDROID_SDK/extras/google/m2repository/com/google/android/gms/play-services-basement/9.0.0/play-services-basement-9.0.0.aar`
 
-Requires (to compile):<br/>
-`Android 2.3 (API 10) SDK Platform`
+**Requires:**
+- `Android 2.3 (API 10) SDK Platform`
+- [dandar3/android-support-v4](https://github.com/dandar3/android-support-v4)
 
-Requires library:
-* [dandar3/android-support-v4](https://github.com/dandar3/android-support-v4)
+**References:**
+- https://developers.google.com/android/guides/releases
+- https://android-developers.blogspot.com/2016/05/google-play-services-90-updates.html
 
-Subversion checkout URL:
-* https://github.com/dandar3/android-google-play-services-basement/tags/9.0.0
-
-Release Notes:
-* https://developers.google.com/android/guides/releases
-* https://android-developers.blogspot.com/2015/12/google-play-services-84-sdk-is-available_18.html
+SVN checkout URL:
+- https://github.com/dandar3/android-google-play-services-basement/tags/9.0.0
