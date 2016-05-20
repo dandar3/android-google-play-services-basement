@@ -12,5 +12,5 @@ Eclipse library project based on:<br/>
 - https://developers.google.com/android/guides/releases
 - https://android-developers.blogspot.com/2016/05/google-play-services-90-updates.html
 
-SVN checkout URL:
+**SVN checkout URL:**
 - https://github.com/dandar3/android-google-play-services-basement/tags/9.0.0
