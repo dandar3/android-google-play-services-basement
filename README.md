@@ -4,7 +4,7 @@ Eclipse library project based on:<br/>
 `ANDROID_SDK/extras/google/m2repository/com/google/android/gms/play-services-basement/9.6.0/play-services-basement-9.6.0.aar`
 
 **Requires:**
-- `Android 2.3.1 (API 9) SDK Platform`
+- `Android 7.0 (API 24) SDK Platform`
 - [dandar3/android-support-v4](https://github.com/dandar3/android-support-v4/tree/24.2.0)
 
 **References:**
