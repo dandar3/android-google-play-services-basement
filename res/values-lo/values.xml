@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/tmp/aar_gen_tmp3462974426155758594/tmp-deduplicated/blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/common/res/values-lo/strings.xml -->
-    <eat-comment/>
-    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ກຳ​ລັງ​ມີ​ບັນ​ຫາ​ກັບ​ການ​ບໍ​ລິ​ການ Google Play. ຖ້າ​ບັນ​ຫາ​ຍັງ​ສືບ​ຕໍ່, ກະ​ລຸ​ນາ​ຕິດ​ຕໍ່​​ຜູ້​ພັດ​ທະ​ນາ ເພື່ອ​ຂໍ​ຄວາມ​ຊ່ວຍ​ເຫຼືອ."</string>
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/common/res/values-lo/strings.xml -->
+<eat-comment/>
+<string name="common_google_play_services_unknown_issue" msgid="2518680582564677258">"<xliff:g id="APP_NAME">%1$s</xliff:g> ກຳລັງມີບັນຫາກັບບໍລິການ Google Play. ກະລຸນາລອງໃໝ່ອີກຄັ້ງ."</string>
 </resources>
