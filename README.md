@@ -8,7 +8,8 @@ Eclipse library project based on:<br/>
 - [dandar3/android-support-v4](https://github.com/dandar3/android-support-v4/tree/25.2.0)
 
 **References:**
-- https://developers.google.com/android/guides/releases#november_2016_-_v100
+- https://developers.google.com/android/guides/releases#february_2017_-_v102
+- https://plus.google.com/+AndroidDevelopers/posts/dmupRXNs6Tm
 
 **SVN checkout:** 
 - _File > Import... > Team > Team Project Set > URL:_<br/>
