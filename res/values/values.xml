@@ -2,47 +2,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 <!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/res/values/gmscore_version.xml -->
 <eat-comment/>
-<integer name="google_play_services_version">10298000</integer>
+<integer name="google_play_services_version">10240000</integer>
 <!-- java/com/google/android/gmscore/integ/client/common/res/values/strings.xml -->
 <eat-comment/>
 <string name="common_google_play_services_unknown_issue"><xliff:g id="app_name">%1$s</xliff:g> is having trouble with Google Play services. Please try again.</string>
-
-<!-- Ads -->
-<declare-styleable name="AdsAttrs">
-<attr name="adSize" format="string"/>
-<attr name="adSizes" format="string"/>
-<attr name="adUnitId" format="string"/>
-</declare-styleable>
-
-<!-- Maps -->
-<declare-styleable name="MapAttrs"><attr name="mapType">
-<enum name="none" value="0"/>
-<enum name="normal" value="1"/>
-<enum name="satellite" value="2"/>
-<enum name="terrain" value="3"/>
-<enum name="hybrid" value="4"/>
-</attr>
-<attr name="cameraBearing" format="float"/>
-<attr name="cameraTargetLat" format="float"/>
-<attr name="cameraTargetLng" format="float"/>
-<attr name="cameraTilt" format="float"/>
-<attr name="cameraZoom" format="float"/>
-<attr name="liteMode" format="boolean"/>
-<attr name="uiCompass" format="boolean"/>
-<attr name="uiRotateGestures" format="boolean"/>
-<attr name="uiScrollGestures" format="boolean"/>
-<attr name="uiTiltGestures" format="boolean"/>
-<attr name="uiZoomControls" format="boolean"/>
-<attr name="uiZoomGestures" format="boolean"/>
-<attr name="useViewLifecycle" format="boolean"/>
-<attr name="zOrderOnTop" format="boolean"/>
-<attr name="uiMapToolbar" format="boolean"/>
-<attr name="ambientEnabled" format="boolean"/>
-<attr name="cameraMinZoomPreference" format="float"/>
-<attr name="cameraMaxZoomPreference" format="float"/>
-<attr name="latLngBoundsSouthWestLatitude" format="float"/>
-<attr name="latLngBoundsSouthWestLongitude" format="float"/>
-<attr name="latLngBoundsNorthEastLatitude" format="float"/>
-<attr name="latLngBoundsNorthEastLongitude" format="float"/>
-</declare-styleable>
 </resources>
