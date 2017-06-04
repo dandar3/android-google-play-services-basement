@@ -3,4 +3,81 @@
 <!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/common/res/values-zu/strings.xml -->
 <eat-comment/>
 <string name="common_google_play_services_unknown_issue" msgid="2518680582564677258">"<xliff:g id="APP_NAME">%1$s</xliff:g> inenkinga ngamasevisi e-Google Play. Sicela uzame futhi."</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/cast/res/values-zu/cast_strings.xml -->
+<eat-comment/>
+<string name="cast_notification_connected_message" msgid="5319032370587661362">"Ixhumeke ku-<xliff:g id="NAME">%1$s</xliff:g>"</string>
+<string name="cast_notification_connecting_message" msgid="2758865089947797888">"Ixhumeka ku-<xliff:g id="NAME">%1$s</xliff:g>"</string>
+<string name="cast_notification_disconnect" msgid="5232008641593292969">"Nqamula"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/cast/framework/res/values-zu/cast_strings.xml -->
+<eat-comment/>
+<string name="cast_ad_label" msgid="4778414446709286370">"Isikhangiso"</string>
+<string name="cast_casting_to_device" msgid="366047012176970604">"Isakazela ku-%1$s"</string>
+<string name="cast_closed_captions" msgid="2888745622334830481">"Amazwibela avaliwe"</string>
+<string name="cast_closed_captions_unavailable" msgid="4476421850100851087">"Imibhalo engezansi ayitholakali"</string>
+<string name="cast_disconnect" msgid="4431992200264667209">"Nqamula"</string>
+<string name="cast_expanded_controller_ad_image_description" msgid="5668979866539349222">"Isithombe esiboniswa ngenkathi isitholi sokusakaza sidlala isikhangiso"</string>
+<string name="cast_expanded_controller_ad_in_progress" msgid="9069517964239146855">"Isikhangiso siyaqhubeka…"</string>
+<string name="cast_expanded_controller_background_image" msgid="8886260998635257149">"Ubuciko be-albhamu"</string>
+<string name="cast_expanded_controller_live_stream_indicator" msgid="1316611227831672183">"Ukusakaza bukhoma"</string>
+<string name="cast_expanded_controller_loading" msgid="7334411994450681286">"Iyalayisha…"</string>
+<string name="cast_expanded_controller_skip_ad_label" msgid="8399595886048969508">"Yeqa"</string>
+<string name="cast_forward" msgid="7884080323096468593">"Dlulisela phambili"</string>
+<string name="cast_forward_10" msgid="6424889955881797947">"Dlulisela phambili ngamasekhondi ayishumi"</string>
+<string name="cast_forward_30" msgid="7868672855975238403">"Dlulisela phambili ngamasekhondi angamashumi amathathu"</string>
+<string name="cast_intro_overlay_button_text" msgid="6885943100773268783">"@android:string/ok"</string>
+<string name="cast_mute" msgid="5637297909372905371">"Thulisa"</string>
+<string name="cast_pause" msgid="5308503786390460607">"Misa isikhashana"</string>
+<string name="cast_play" msgid="5906987965619702702">"Dlala"</string>
+<string name="cast_rewind" msgid="1739665135565985480">"Buyisela emuva"</string>
+<string name="cast_rewind_10" msgid="6432793028560778843">"Buyisela emuva ngamasekhondi ayishumi"</string>
+<string name="cast_rewind_30" msgid="4677199707225681325">"Buyisela emuva ngamasekhondi angamashumi amathathu"</string>
+<string name="cast_seek_bar" msgid="9078075166993780241">"Ulawulo lokufuna ukudlalwa"</string>
+<string name="cast_skip_next" msgid="3991548379225047363">"Yeqela kunto elandelayo"</string>
+<string name="cast_skip_prev" msgid="8369073097776576935">"Yeqela kunto yangaphambilini"</string>
+<string name="cast_stop" msgid="9191388946729723891">"Misa"</string>
+<string name="cast_stop_live_stream" msgid="1219622777438777099">"Misa ukusakaza okubukhoma"</string>
+<string name="cast_tracks_chooser_dialog_audio" msgid="4250321332248956563">"Umsindo"</string>
+<string name="cast_tracks_chooser_dialog_cancel" msgid="1162380934229249476">"Khansela"</string>
+<string name="cast_tracks_chooser_dialog_closed_captions" msgid="1779359505126875127">"amazwibela avaliwe"</string>
+<string name="cast_tracks_chooser_dialog_default_track_name" msgid="3012268736704635952">"Ithrekhi engu-<xliff:g id="POSITION">%1$d</xliff:g>"</string>
+<string name="cast_tracks_chooser_dialog_no_audio_tracks" msgid="5563446400083425854">"Awekho amathrekhi omsindo atholakalayo"</string>
+<string name="cast_tracks_chooser_dialog_no_text_tracks" msgid="7413336699113748535">"Awekho amathrekhi ombhalo atholakalayo"</string>
+<string name="cast_tracks_chooser_dialog_none" msgid="1176688358580178396">"Lutho"</string>
+<string name="cast_tracks_chooser_dialog_ok" msgid="3804878371876790270">"KULUNGILE"</string>
+<string name="cast_tracks_chooser_dialog_subtitles" msgid="2454147715032376208">"Imibhalo engezansi"</string>
+<string name="cast_unmute" msgid="2913461521603516868">"Susa ukuthula"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/base/res/values-zu/strings.xml -->
+<eat-comment/>
+<string name="common_google_play_services_enable_button" msgid="8585111718777012708">"Nika amandla"</string>
+<string name="common_google_play_services_enable_text" msgid="7045129128108380659">"I-<xliff:g id="APP_NAME">%1$s</xliff:g> ngeke isebenze ngaphandle kokuthi unike amandla amasevisi we-Google Play."</string>
+<string name="common_google_play_services_enable_title" msgid="3147157405986503375">"Nika amandla amasevisi we-Google Play"</string>
+<string name="common_google_play_services_install_button" msgid="9115728400623041681">"Faka"</string>
+<string name="common_google_play_services_install_text" msgid="8179894293032530091">"I-<xliff:g id="APP_NAME">%1$s</xliff:g> ngeke ize iqalise ngaphandle kwamasevisi we-Google Play, angekho kusukela kudivayisi yakho."</string>
+<string name="common_google_play_services_install_title" msgid="7442193194585196676">"Thola amasevisi we-Google Play"</string>
+<string name="common_google_play_services_notification_ticker" msgid="180394615667698242">"Iphutha lamasevisi we-Google Play"</string>
+<string name="common_google_play_services_unsupported_text" msgid="5501187292256987189">"<xliff:g id="APP_NAME">%1$s</xliff:g> ngeke isebenze ngaphandle kwamasevisi e-Google Play, angasekelwa idivayisi yakho."</string>
+<string name="common_google_play_services_update_button" msgid="8172070149091615356">"Isibuyekezo"</string>
+<string name="common_google_play_services_update_text" msgid="7773943415006962566">"I-<xliff:g id="APP_NAME">%1$s</xliff:g> ngeke ize iqalise ngaphandle kokuthi ubuyekeze i-Google Play."</string>
+<string name="common_google_play_services_update_title" msgid="8706675115216073244">"Buyekeza amasevisi we-Google Play"</string>
+<string name="common_google_play_services_updating_text" msgid="7894275749778928941">"I-<xliff:g id="APP_NAME">%1$s</xliff:g> ngeke ize iqalise ngaphandle kwamasevisi we-Google Play, okwamanje abuyekezwayo."</string>
+<string name="common_google_play_services_wear_update_text" msgid="2804989272736383918">"Kudingeka inguqulo entsha yamasevisi we-Google Play. Izozibuyekeza ngokwayo maduze."</string>
+<string name="common_open_on_phone" msgid="5201977337835724196">"Vula kufoni"</string>
+<string name="common_signin_button_text" msgid="3441753203274453993">"Ngena ngemvume"</string>
+<string name="common_signin_button_text_long" msgid="669893613918351210">"Ngena ngemvume nge-Google"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-zu/strings.xml -->
+<eat-comment/>
+<string name="accept" msgid="5835639618285370804">"Yamukela"</string>
+<string name="create_calendar_message" msgid="6155048007205742679">"Vumela Isikhangiso ukudala umcimbi wekhalenda?"</string>
+<string name="create_calendar_title" msgid="7967007864778154790">"Dala umcimbi wekhalenda"</string>
+<string name="debug_menu_ad_information" msgid="4722375419392727435">"Ulwazi lwesikhangiso"</string>
+<string name="debug_menu_creative_preview" msgid="1605938743055376690">"Ukuhlola kuqala kobuciko"</string>
+<string name="debug_menu_title" msgid="2039274714455389140">"Khetha imodi yokususa iphutha"</string>
+<string name="debug_menu_troubleshooting" msgid="1173358804935285568">"Ukuxazulula inkinga"</string>
+<string name="decline" msgid="6099173376375995052">"Yenqaba"</string>
+<string name="store_picture_message" msgid="8020323581538738027">"Vumela isikhangiso ukugcina isithombe kwigalari yesithombe?"</string>
+<string name="store_picture_title" msgid="4180630057627064606">"Londoloza isithombe"</string>
 </resources>
