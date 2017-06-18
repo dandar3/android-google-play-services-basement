@@ -1,4 +1,3 @@
-
 # Proguard flags for consumers of the Google Play services SDK
 # https://developers.google.com/android/guides/setup#add_google_play_services_to_your_project
 
@@ -46,14 +45,6 @@
 # Needed when building against Marshmallow SDK.
 -dontwarn android.app.Notification
 
-# Firebase-Perf specific flags
-# Needed when app is not using OkHttp
--dontwarn okio.**
-
-# Needed when app's compileSdkVersion < 24
--dontwarn com.google.firebase.perf.network.**
-
-# Ensure that proguard will not strip GcmListenerService.handleIntent()
--keepclassmembers class com.google.android.gms.gcm.GcmListenerService {
-    public void handleIntent(android.content.Intent);
-}
+# Protobuf has references not on the Android boot classpath
+-dontwarn sun.misc.Unsafe
+-dontwarn libcore.io.Memory
