@@ -48,3 +48,6 @@
 # Protobuf has references not on the Android boot classpath
 -dontwarn sun.misc.Unsafe
 -dontwarn libcore.io.Memory
+
+# Internal Google annotations for generating Proguard keep rules.
+-dontwarn com.google.android.apps.common.proguard.UsedBy*
