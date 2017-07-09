@@ -3,4 +3,75 @@
 <!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/common/res/values-da/strings.xml -->
 <eat-comment/>
 <string name="common_google_play_services_unknown_issue" msgid="2518680582564677258">"<xliff:g id="APP_NAME">%1$s</xliff:g> har problemer med Google Play-tjenester. Prøv igen."</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/cast/res/values-da/cast_strings.xml -->
+<eat-comment/>
+<string name="cast_notification_connected_message" msgid="5319032370587661362">"Forbundet til <xliff:g id="NAME">%1$s</xliff:g>"</string>
+<string name="cast_notification_connecting_message" msgid="2758865089947797888">"Der oprettes forbindelse til <xliff:g id="NAME">%1$s</xliff:g>"</string>
+<string name="cast_notification_disconnect" msgid="5232008641593292969">"Afbryd"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/cast/framework/res/values-da/cast_strings.xml -->
+<eat-comment/>
+<string name="cast_ad_label" msgid="4778414446709286370">"Annonce"</string>
+<string name="cast_casting_to_device" msgid="366047012176970604">"Caster til %1$s"</string>
+<string name="cast_closed_captions" msgid="2888745622334830481">"Undertekster"</string>
+<string name="cast_closed_captions_unavailable" msgid="4476421850100851087">"Undertekster er ikke tilgængelige"</string>
+<string name="cast_disconnect" msgid="4431992200264667209">"Afbryd"</string>
+<string name="cast_expanded_controller_ad_image_description" msgid="5668979866539349222">"Billede, der vises, mens Cast-modtageren afspiller en annonce"</string>
+<string name="cast_expanded_controller_ad_in_progress" msgid="9069517964239146855">"Igangværende annonce…"</string>
+<string name="cast_expanded_controller_background_image" msgid="8886260998635257149">"Albumgrafik"</string>
+<string name="cast_expanded_controller_live_stream_indicator" msgid="1316611227831672183">"Livestreaming"</string>
+<string name="cast_expanded_controller_loading" msgid="7334411994450681286">"Indlæser…"</string>
+<string name="cast_expanded_controller_skip_ad_label" msgid="8399595886048969508">"Spring over"</string>
+<string name="cast_forward" msgid="7884080323096468593">"Spol frem"</string>
+<string name="cast_forward_10" msgid="6424889955881797947">"Spol ti sekunder frem"</string>
+<string name="cast_forward_30" msgid="7868672855975238403">"Spol 30 sekunder frem"</string>
+<string name="cast_intro_overlay_button_text" msgid="6885943100773268783">"@android:string/ok"</string>
+<string name="cast_mute" msgid="5637297909372905371">"Slå lyden fra"</string>
+<string name="cast_pause" msgid="5308503786390460607">"Sæt på pause"</string>
+<string name="cast_play" msgid="5906987965619702702">"Afspil"</string>
+<string name="cast_rewind" msgid="1739665135565985480">"Spol tilbage"</string>
+<string name="cast_rewind_10" msgid="6432793028560778843">"Spol ti sekunder tilbage"</string>
+<string name="cast_rewind_30" msgid="4677199707225681325">"Spol 30 sekunder tilbage"</string>
+<string name="cast_seek_bar" msgid="9078075166993780241">"Søgebjælken for afspilning"</string>
+<string name="cast_skip_next" msgid="3991548379225047363">"Spring til næste punkt"</string>
+<string name="cast_skip_prev" msgid="8369073097776576935">"Spring til forrige punkt"</string>
+<string name="cast_stop" msgid="9191388946729723891">"Stop"</string>
+<string name="cast_stop_live_stream" msgid="1219622777438777099">"Stop livestream"</string>
+<string name="cast_tracks_chooser_dialog_audio" msgid="4250321332248956563">"Lyd"</string>
+<string name="cast_tracks_chooser_dialog_cancel" msgid="1162380934229249476">"Annuller"</string>
+<string name="cast_tracks_chooser_dialog_closed_captions" msgid="1779359505126875127">"Undertekster"</string>
+<string name="cast_tracks_chooser_dialog_default_track_name" msgid="3012268736704635952">"Nummer <xliff:g id="POSITION">%1$d</xliff:g>"</string>
+<string name="cast_tracks_chooser_dialog_none" msgid="1176688358580178396">"Ingen"</string>
+<string name="cast_tracks_chooser_dialog_ok" msgid="3804878371876790270">"OK"</string>
+<string name="cast_tracks_chooser_dialog_subtitles" msgid="2454147715032376208">"Undertekster"</string>
+<string name="cast_unmute" msgid="2913461521603516868">"Slå lyden til"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/base/res/values-da/strings.xml -->
+<eat-comment/>
+<string name="common_google_play_services_enable_button" msgid="8585111718777012708">"Aktivér"</string>
+<string name="common_google_play_services_enable_text" msgid="7045129128108380659">"Du skal aktivere Google Play-tjenester, for at <xliff:g id="APP_NAME">%1$s</xliff:g> kan fungere."</string>
+<string name="common_google_play_services_enable_title" msgid="3147157405986503375">"Aktivér Google Play-tjenester"</string>
+<string name="common_google_play_services_install_button" msgid="9115728400623041681">"Installer"</string>
+<string name="common_google_play_services_install_text" msgid="8179894293032530091">"Du skal installere Google Play-tjenester, før <xliff:g id="APP_NAME">%1$s</xliff:g> kan køre på din enhed."</string>
+<string name="common_google_play_services_install_title" msgid="7442193194585196676">"Hent Google Play-tjenester"</string>
+<string name="common_google_play_services_notification_ticker" msgid="180394615667698242">"Fejl i Google Play-tjenester"</string>
+<string name="common_google_play_services_unsupported_text" msgid="5501187292256987189">"<xliff:g id="APP_NAME">%1$s</xliff:g> fungerer ikke uden Google Play-tjenester, som ikke understøttes på din enhed."</string>
+<string name="common_google_play_services_update_button" msgid="8172070149091615356">"Opdater"</string>
+<string name="common_google_play_services_update_text" msgid="7773943415006962566">"<xliff:g id="APP_NAME">%1$s</xliff:g> kan ikke køre, medmindre du opdaterer Google Play-tjenester."</string>
+<string name="common_google_play_services_update_title" msgid="8706675115216073244">"Opdater Google Play-tjenester"</string>
+<string name="common_google_play_services_updating_text" msgid="7894275749778928941">"<xliff:g id="APP_NAME">%1$s</xliff:g> kan ikke køre uden Google Play-tjenester, som i øjeblikket opdateres."</string>
+<string name="common_google_play_services_wear_update_text" msgid="2804989272736383918">"Du skal bruge en ny version af Google Play-tjenester. Opdateringen gennemføres automatisk om et øjeblik."</string>
+<string name="common_open_on_phone" msgid="5201977337835724196">"Åbn på telefonen"</string>
+<string name="common_signin_button_text" msgid="3441753203274453993">"Log ind"</string>
+<string name="common_signin_button_text_long" msgid="669893613918351210">"Log ind med Google"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-da/strings.xml -->
+<eat-comment/>
+<string name="s1" msgid="368094699078615544">"Gem billede"</string>
+<string name="s2" msgid="4550830452390689489">"Vil du tillade, at annoncen gemmer billedet i Galleri?"</string>
+<string name="s3" msgid="2435407834265420668">"Acceptér"</string>
+<string name="s4" msgid="9167523597401839819">"Afvis"</string>
+<string name="s5" msgid="1566682516266724847">"Opret kalenderbegivenhed"</string>
+<string name="s6" msgid="5996672174517137271">"Vil du tillade, at annoncen opretter en kalenderbegivenhed?"</string>
 </resources>

@@ -3,4 +3,75 @@
 <!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/common/res/values-en-rGB/strings.xml -->
 <eat-comment/>
 <string name="common_google_play_services_unknown_issue" msgid="2518680582564677258">"<xliff:g id="APP_NAME">%1$s</xliff:g> is having trouble with Google Play services. Please try again."</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/cast/res/values-en-rGB/cast_strings.xml -->
+<eat-comment/>
+<string name="cast_notification_connected_message" msgid="5319032370587661362">"Connected to <xliff:g id="NAME">%1$s</xliff:g>"</string>
+<string name="cast_notification_connecting_message" msgid="2758865089947797888">"Connecting to <xliff:g id="NAME">%1$s</xliff:g>"</string>
+<string name="cast_notification_disconnect" msgid="5232008641593292969">"Disconnect"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/cast/framework/res/values-en-rGB/cast_strings.xml -->
+<eat-comment/>
+<string name="cast_ad_label" msgid="4778414446709286370">"Ad"</string>
+<string name="cast_casting_to_device" msgid="366047012176970604">"Casting to %1$s"</string>
+<string name="cast_closed_captions" msgid="2888745622334830481">"Closed captions"</string>
+<string name="cast_closed_captions_unavailable" msgid="4476421850100851087">"Closed captions unavailable"</string>
+<string name="cast_disconnect" msgid="4431992200264667209">"Disconnect"</string>
+<string name="cast_expanded_controller_ad_image_description" msgid="5668979866539349222">"Image displayed while the cast receiver is playing an ad"</string>
+<string name="cast_expanded_controller_ad_in_progress" msgid="9069517964239146855">"Ad in progress…"</string>
+<string name="cast_expanded_controller_background_image" msgid="8886260998635257149">"Album art"</string>
+<string name="cast_expanded_controller_live_stream_indicator" msgid="1316611227831672183">"Live stream"</string>
+<string name="cast_expanded_controller_loading" msgid="7334411994450681286">"Loading …"</string>
+<string name="cast_expanded_controller_skip_ad_label" msgid="8399595886048969508">"Skip"</string>
+<string name="cast_forward" msgid="7884080323096468593">"Forward"</string>
+<string name="cast_forward_10" msgid="6424889955881797947">"Forward ten seconds"</string>
+<string name="cast_forward_30" msgid="7868672855975238403">"Forward thirty seconds"</string>
+<string name="cast_intro_overlay_button_text" msgid="6885943100773268783">"@android:string/ok"</string>
+<string name="cast_mute" msgid="5637297909372905371">"Mute"</string>
+<string name="cast_pause" msgid="5308503786390460607">"Pause"</string>
+<string name="cast_play" msgid="5906987965619702702">"Play"</string>
+<string name="cast_rewind" msgid="1739665135565985480">"Rewind"</string>
+<string name="cast_rewind_10" msgid="6432793028560778843">"Rewind ten seconds"</string>
+<string name="cast_rewind_30" msgid="4677199707225681325">"Rewind thirty seconds"</string>
+<string name="cast_seek_bar" msgid="9078075166993780241">"Playback seek control"</string>
+<string name="cast_skip_next" msgid="3991548379225047363">"Skip to next item"</string>
+<string name="cast_skip_prev" msgid="8369073097776576935">"Skip to previous item"</string>
+<string name="cast_stop" msgid="9191388946729723891">"Stop"</string>
+<string name="cast_stop_live_stream" msgid="1219622777438777099">"Stop live stream"</string>
+<string name="cast_tracks_chooser_dialog_audio" msgid="4250321332248956563">"Audio"</string>
+<string name="cast_tracks_chooser_dialog_cancel" msgid="1162380934229249476">"Cancel"</string>
+<string name="cast_tracks_chooser_dialog_closed_captions" msgid="1779359505126875127">"Closed Captions"</string>
+<string name="cast_tracks_chooser_dialog_default_track_name" msgid="3012268736704635952">"Track <xliff:g id="POSITION">%1$d</xliff:g>"</string>
+<string name="cast_tracks_chooser_dialog_none" msgid="1176688358580178396">"None"</string>
+<string name="cast_tracks_chooser_dialog_ok" msgid="3804878371876790270">"OK"</string>
+<string name="cast_tracks_chooser_dialog_subtitles" msgid="2454147715032376208">"Subtitles"</string>
+<string name="cast_unmute" msgid="2913461521603516868">"Unmute"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/base/res/values-en-rGB/strings.xml -->
+<eat-comment/>
+<string name="common_google_play_services_enable_button" msgid="8585111718777012708">"Enable"</string>
+<string name="common_google_play_services_enable_text" msgid="7045129128108380659">"<xliff:g id="APP_NAME">%1$s</xliff:g> won\'t work unless you enable Google Play services."</string>
+<string name="common_google_play_services_enable_title" msgid="3147157405986503375">"Enable Google Play services"</string>
+<string name="common_google_play_services_install_button" msgid="9115728400623041681">"Install"</string>
+<string name="common_google_play_services_install_text" msgid="8179894293032530091">"<xliff:g id="APP_NAME">%1$s</xliff:g> won\'t run without Google Play services, which are missing from your device."</string>
+<string name="common_google_play_services_install_title" msgid="7442193194585196676">"Get Google Play services"</string>
+<string name="common_google_play_services_notification_ticker" msgid="180394615667698242">"Google Play services error"</string>
+<string name="common_google_play_services_unsupported_text" msgid="5501187292256987189">"<xliff:g id="APP_NAME">%1$s</xliff:g> won\'t run without Google Play services, which are not supported by your device."</string>
+<string name="common_google_play_services_update_button" msgid="8172070149091615356">"Update"</string>
+<string name="common_google_play_services_update_text" msgid="7773943415006962566">"<xliff:g id="APP_NAME">%1$s</xliff:g> won\'t run unless you update Google Play services."</string>
+<string name="common_google_play_services_update_title" msgid="8706675115216073244">"Update Google Play services"</string>
+<string name="common_google_play_services_updating_text" msgid="7894275749778928941">"<xliff:g id="APP_NAME">%1$s</xliff:g> won\'t run without Google Play services, which are currently updating."</string>
+<string name="common_google_play_services_wear_update_text" msgid="2804989272736383918">"New version of Google Play services needed. It will update itself shortly."</string>
+<string name="common_open_on_phone" msgid="5201977337835724196">"Open on phone"</string>
+<string name="common_signin_button_text" msgid="3441753203274453993">"Sign In"</string>
+<string name="common_signin_button_text_long" msgid="669893613918351210">"Sign in with Google"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-en-rGB/strings.xml -->
+<eat-comment/>
+<string name="s1" msgid="368094699078615544">"Save image"</string>
+<string name="s2" msgid="4550830452390689489">"Allow Ad to store image in Picture gallery?"</string>
+<string name="s3" msgid="2435407834265420668">"Accept"</string>
+<string name="s4" msgid="9167523597401839819">"Decline"</string>
+<string name="s5" msgid="1566682516266724847">"Create calendar event"</string>
+<string name="s6" msgid="5996672174517137271">"Allow Ad to create a calendar event?"</string>
 </resources>

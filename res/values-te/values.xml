@@ -3,4 +3,75 @@
 <!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/common/res/values-te/strings.xml -->
 <eat-comment/>
 <string name="common_google_play_services_unknown_issue" msgid="2518680582564677258">"<xliff:g id="APP_NAME">%1$s</xliff:g> Google Play సేవలతో సమస్య కలిగి ఉంది. దయచేసి మళ్లీ ప్రయత్నించండి."</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/cast/res/values-te/cast_strings.xml -->
+<eat-comment/>
+<string name="cast_notification_connected_message" msgid="5319032370587661362">"<xliff:g id="NAME">%1$s</xliff:g>కు కనెక్ట్ చేయబడింది"</string>
+<string name="cast_notification_connecting_message" msgid="2758865089947797888">"<xliff:g id="NAME">%1$s</xliff:g>కు కనెక్ట్ చేస్తోంది"</string>
+<string name="cast_notification_disconnect" msgid="5232008641593292969">"డిస్‌కనెక్ట్ చేయి"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/cast/framework/res/values-te/cast_strings.xml -->
+<eat-comment/>
+<string name="cast_ad_label" msgid="4778414446709286370">"ప్రకటన"</string>
+<string name="cast_casting_to_device" msgid="366047012176970604">"%1$sకి ప్రసారం చేస్తోంది"</string>
+<string name="cast_closed_captions" msgid="2888745622334830481">"సంవృత శీర్షికలు"</string>
+<string name="cast_closed_captions_unavailable" msgid="4476421850100851087">"సంవృత ఉపశీర్షికలు అందుబాటులో లేవు"</string>
+<string name="cast_disconnect" msgid="4431992200264667209">"డిస్‌కనెక్ట్ చేయి"</string>
+<string name="cast_expanded_controller_ad_image_description" msgid="5668979866539349222">"ప్రసార స్వీకర్త ప్రకటనను ప్లే చేస్తున్నప్పుడు ప్రదర్శించబడే చిత్రం"</string>
+<string name="cast_expanded_controller_ad_in_progress" msgid="9069517964239146855">"ప్రకటన ప్ర్రోగ్రెస్‌లో ఉంది…"</string>
+<string name="cast_expanded_controller_background_image" msgid="8886260998635257149">"ఆల్బమ్ ఆర్ట్"</string>
+<string name="cast_expanded_controller_live_stream_indicator" msgid="1316611227831672183">"ప్రత్యక్ష ప్రసారం"</string>
+<string name="cast_expanded_controller_loading" msgid="7334411994450681286">"లోడ్ చేస్తోంది…"</string>
+<string name="cast_expanded_controller_skip_ad_label" msgid="8399595886048969508">"దాటవేయి"</string>
+<string name="cast_forward" msgid="7884080323096468593">"ఫార్వార్డ్ చేయి"</string>
+<string name="cast_forward_10" msgid="6424889955881797947">"పది సెకన్లు ఫార్వార్డ్ చేయి"</string>
+<string name="cast_forward_30" msgid="7868672855975238403">"ముప్పై సెకన్లు ఫార్వార్డ్ చేయి"</string>
+<string name="cast_intro_overlay_button_text" msgid="6885943100773268783">"@android:string/ok"</string>
+<string name="cast_mute" msgid="5637297909372905371">"మ్యూట్ చేయి"</string>
+<string name="cast_pause" msgid="5308503786390460607">"పాజ్ చేయి"</string>
+<string name="cast_play" msgid="5906987965619702702">"ప్లే చేయి"</string>
+<string name="cast_rewind" msgid="1739665135565985480">"రివైండ్ చేయి"</string>
+<string name="cast_rewind_10" msgid="6432793028560778843">"పది సెకన్లు రివైండ్ చేయి"</string>
+<string name="cast_rewind_30" msgid="4677199707225681325">"ముప్పై సెకన్లు రివైండ్ చేయి"</string>
+<string name="cast_seek_bar" msgid="9078075166993780241">"ప్లేబ్యాక్ సీక్ నియంత్రణ"</string>
+<string name="cast_skip_next" msgid="3991548379225047363">"తదుపరి అంశానికి దాటవేయి"</string>
+<string name="cast_skip_prev" msgid="8369073097776576935">"మునుపటి అంశానికి దాటవేయి"</string>
+<string name="cast_stop" msgid="9191388946729723891">"ఆపివేయి"</string>
+<string name="cast_stop_live_stream" msgid="1219622777438777099">"ప్రత్యక్ష ప్రసారాన్ని ఆపివేయి"</string>
+<string name="cast_tracks_chooser_dialog_audio" msgid="4250321332248956563">"ఆడియో"</string>
+<string name="cast_tracks_chooser_dialog_cancel" msgid="1162380934229249476">"రద్దు చేయి"</string>
+<string name="cast_tracks_chooser_dialog_closed_captions" msgid="1779359505126875127">"మూసివేసిన శీర్షికలు"</string>
+<string name="cast_tracks_chooser_dialog_default_track_name" msgid="3012268736704635952">"<xliff:g id="POSITION">%1$d</xliff:g>ని ట్రాక్ చేయి"</string>
+<string name="cast_tracks_chooser_dialog_none" msgid="1176688358580178396">"ఏవీ వద్దు"</string>
+<string name="cast_tracks_chooser_dialog_ok" msgid="3804878371876790270">"సరే"</string>
+<string name="cast_tracks_chooser_dialog_subtitles" msgid="2454147715032376208">"ఉపశీర్షికలు"</string>
+<string name="cast_unmute" msgid="2913461521603516868">"అన్‌మ్యూట్ చేయి"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/base/res/values-te/strings.xml -->
+<eat-comment/>
+<string name="common_google_play_services_enable_button" msgid="8585111718777012708">"ప్రారంభించు"</string>
+<string name="common_google_play_services_enable_text" msgid="7045129128108380659">"మీరు Google Play సేవలను ప్రారంభిస్తే మినహా <xliff:g id="APP_NAME">%1$s</xliff:g> పని చేయదు."</string>
+<string name="common_google_play_services_enable_title" msgid="3147157405986503375">"Google Play సేవలను ప్రారంభించండి"</string>
+<string name="common_google_play_services_install_button" msgid="9115728400623041681">"ఇన్‌స్టాల్ చేయి"</string>
+<string name="common_google_play_services_install_text" msgid="8179894293032530091">"<xliff:g id="APP_NAME">%1$s</xliff:g> Google Play సేవలు లేకుండా అమలు కాదు, ఆ సేవలు మీ పరికరంలో లేవు."</string>
+<string name="common_google_play_services_install_title" msgid="7442193194585196676">"Google Play సేవలను పొందండి"</string>
+<string name="common_google_play_services_notification_ticker" msgid="180394615667698242">"Google Play సేవల లోపం"</string>
+<string name="common_google_play_services_unsupported_text" msgid="5501187292256987189">"<xliff:g id="APP_NAME">%1$s</xliff:g> Google Play సేవలు లేకుండా అమలు కాదు, ఈ సేవలకు మీ పరికరంలో మద్దతు లేదు."</string>
+<string name="common_google_play_services_update_button" msgid="8172070149091615356">"నవీకరించు"</string>
+<string name="common_google_play_services_update_text" msgid="7773943415006962566">"మీరు Google Play సేవలను నవీకరిస్తే మినహా <xliff:g id="APP_NAME">%1$s</xliff:g> అమలు కాదు."</string>
+<string name="common_google_play_services_update_title" msgid="8706675115216073244">"Google Play సేవలను నవీకరించండి"</string>
+<string name="common_google_play_services_updating_text" msgid="7894275749778928941">"<xliff:g id="APP_NAME">%1$s</xliff:g> Google Play సేవలు లేకుండా అమలు కాదు, ఆ సేవలు ప్రస్తుతం నవీకరించబడుతున్నాయి."</string>
+<string name="common_google_play_services_wear_update_text" msgid="2804989272736383918">"కొత్త Google Play సేవల సంస్కరణ అవసరం. అది కొద్ది సేపట్లో దానంతట అదే నవీకరించబడుతుంది."</string>
+<string name="common_open_on_phone" msgid="5201977337835724196">"ఫోన్‌లో తెరువు"</string>
+<string name="common_signin_button_text" msgid="3441753203274453993">"సైన్ ఇన్ చేయి"</string>
+<string name="common_signin_button_text_long" msgid="669893613918351210">"Googleతో సైన్ ఇన్ చేయి"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-te/strings.xml -->
+<eat-comment/>
+<string name="s1" msgid="368094699078615544">"చిత్రాన్ని సేవ్ చేయి"</string>
+<string name="s2" msgid="4550830452390689489">"చిత్ర గ్యాలరీలో చిత్రాన్ని నిల్వ చేయడానికి ప్రకటనను అనుమతించాలా?"</string>
+<string name="s3" msgid="2435407834265420668">"అనుమతించు"</string>
+<string name="s4" msgid="9167523597401839819">"తిరస్కరించు"</string>
+<string name="s5" msgid="1566682516266724847">"క్యాలెండర్ ఈవెంట్‌ను సృష్టించు"</string>
+<string name="s6" msgid="5996672174517137271">"క్యాలెండర్ ఈవెంట్‌ను సృష్టించడానికి ప్రకటనను అనుమతించాలా?"</string>
 </resources>
