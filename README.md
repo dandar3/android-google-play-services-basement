@@ -1,10 +1,10 @@
 ## android-google-play-services-basement
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/google/m2repository/com/google/android/gms/play-services-basement/11.2.0/play-services-basement-11.2.0.aar`
+`https://maven.google.com/com/google/android/gms/play-services-basement/11.2.0/play-services-basement-11.2.0.aar`
 
 **Requires:**
-- `Android 7.1 (API 25) SDK Platform`
+- `Android 8.0 (API 26) SDK Platform`
 - [dandar3/android-support-v4](https://github.com/dandar3/android-support-v4/tree/26.0.2)
 
 **References:**
