@@ -3,4 +3,75 @@
 <!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/common/res/values-eu/strings.xml -->
 <eat-comment/>
 <string name="common_google_play_services_unknown_issue" msgid="2518680582564677258">"<xliff:g id="APP_NAME">%1$s</xliff:g> aplikazioak arazoak ditu Google Play zerbitzuekin. Saiatu berriro."</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/cast/res/values-eu/cast_strings.xml -->
+<eat-comment/>
+<string name="cast_notification_connected_message" msgid="5319032370587661362">"<xliff:g id="NAME">%1$s</xliff:g> gailura konektatuta"</string>
+<string name="cast_notification_connecting_message" msgid="2758865089947797888">"<xliff:g id="NAME">%1$s</xliff:g> gailura konektatzen"</string>
+<string name="cast_notification_disconnect" msgid="5232008641593292969">"Deskonektatu"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/cast/framework/res/values-eu/cast_strings.xml -->
+<eat-comment/>
+<string name="cast_ad_label" msgid="4778414446709286370">"Iragarkia"</string>
+<string name="cast_casting_to_device" msgid="366047012176970604">"%1$s gailura igortzen"</string>
+<string name="cast_closed_captions" msgid="2888745622334830481">"Azpitituluak"</string>
+<string name="cast_closed_captions_unavailable" msgid="4476421850100851087">"Ez dago erabilgarri azpititulurik"</string>
+<string name="cast_disconnect" msgid="4431992200264667209">"Deskonektatu"</string>
+<string name="cast_expanded_controller_ad_image_description" msgid="5668979866539349222">"Igorpenaren hargailuak iragarkiak erreproduzitu bitartean erakusten den irudia"</string>
+<string name="cast_expanded_controller_ad_in_progress" msgid="9069517964239146855">"Iragarkia abian…"</string>
+<string name="cast_expanded_controller_background_image" msgid="8886260998635257149">"Albumaren azala"</string>
+<string name="cast_expanded_controller_live_stream_indicator" msgid="1316611227831672183">"Zuzeneko erreprodukzioa"</string>
+<string name="cast_expanded_controller_loading" msgid="7334411994450681286">"Kargatzen…"</string>
+<string name="cast_expanded_controller_skip_ad_label" msgid="8399595886048969508">"Saltatu"</string>
+<string name="cast_forward" msgid="7884080323096468593">"Aurreratu"</string>
+<string name="cast_forward_10" msgid="6424889955881797947">"Aurreratu hamar segundo"</string>
+<string name="cast_forward_30" msgid="7868672855975238403">"Aurreratu hogeita hamar segundo"</string>
+<string name="cast_intro_overlay_button_text" msgid="6885943100773268783">"@android:string/ok"</string>
+<string name="cast_mute" msgid="5637297909372905371">"Desaktibatu audioa"</string>
+<string name="cast_pause" msgid="5308503786390460607">"Pausatu"</string>
+<string name="cast_play" msgid="5906987965619702702">"Erreproduzitu"</string>
+<string name="cast_rewind" msgid="1739665135565985480">"Atzeratu"</string>
+<string name="cast_rewind_10" msgid="6432793028560778843">"Atzeratu hamar segundo"</string>
+<string name="cast_rewind_30" msgid="4677199707225681325">"Atzeratu hogeita hamar segundo"</string>
+<string name="cast_seek_bar" msgid="9078075166993780241">"Erreprodukzioaren graduatzailea"</string>
+<string name="cast_skip_next" msgid="3991548379225047363">"Saltatu hurrengo elementura"</string>
+<string name="cast_skip_prev" msgid="8369073097776576935">"Saltatu aurreko elementura"</string>
+<string name="cast_stop" msgid="9191388946729723891">"Gelditu"</string>
+<string name="cast_stop_live_stream" msgid="1219622777438777099">"Gelditu zuzeneko erreprodukzioa"</string>
+<string name="cast_tracks_chooser_dialog_audio" msgid="4250321332248956563">"Audioa"</string>
+<string name="cast_tracks_chooser_dialog_cancel" msgid="1162380934229249476">"Utzi"</string>
+<string name="cast_tracks_chooser_dialog_closed_captions" msgid="1779359505126875127">"Azpitituluak"</string>
+<string name="cast_tracks_chooser_dialog_default_track_name" msgid="3012268736704635952">"<xliff:g id="POSITION">%1$d</xliff:g>. pista"</string>
+<string name="cast_tracks_chooser_dialog_none" msgid="1176688358580178396">"Bat ere ez"</string>
+<string name="cast_tracks_chooser_dialog_ok" msgid="3804878371876790270">"Ados"</string>
+<string name="cast_tracks_chooser_dialog_subtitles" msgid="2454147715032376208">"Azpitituluak"</string>
+<string name="cast_unmute" msgid="2913461521603516868">"Aktibatu audioa"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/base/res/values-eu/strings.xml -->
+<eat-comment/>
+<string name="common_google_play_services_enable_button" msgid="8585111718777012708">"Gaitu"</string>
+<string name="common_google_play_services_enable_text" msgid="7045129128108380659">"<xliff:g id="APP_NAME">%1$s</xliff:g> aplikazioak ez du funtzionatuko Google Play zerbitzuak gaitzen ez badituzu."</string>
+<string name="common_google_play_services_enable_title" msgid="3147157405986503375">"Gaitu Google Play zerbitzuak"</string>
+<string name="common_google_play_services_install_button" msgid="9115728400623041681">"Instalatu"</string>
+<string name="common_google_play_services_install_text" msgid="8179894293032530091">"<xliff:g id="APP_NAME">%1$s</xliff:g> ez da exekutatuko Google Play zerbitzurik gabe, baina ez dituzu gailuan."</string>
+<string name="common_google_play_services_install_title" msgid="7442193194585196676">"Lortu Google Play zerbitzuak"</string>
+<string name="common_google_play_services_notification_ticker" msgid="180394615667698242">"Google Play zerbitzuen errorea"</string>
+<string name="common_google_play_services_unsupported_text" msgid="5501187292256987189">"<xliff:g id="APP_NAME">%1$s</xliff:g> aplikazioa ezin da erabili Google Play zerbitzurik gabe, eta zure gailua ez da zerbitzuokin bateragarria."</string>
+<string name="common_google_play_services_update_button" msgid="8172070149091615356">"Eguneratu"</string>
+<string name="common_google_play_services_update_text" msgid="7773943415006962566">"<xliff:g id="APP_NAME">%1$s</xliff:g> ez da exekutatuko Google Play zerbitzuak eguneratzen ez badituzu."</string>
+<string name="common_google_play_services_update_title" msgid="8706675115216073244">"Eguneratu Google Play zerbitzuak"</string>
+<string name="common_google_play_services_updating_text" msgid="7894275749778928941">"<xliff:g id="APP_NAME">%1$s</xliff:g> ez da exekutatuko Google Play zerbitzurik gabe; une honetan eguneratzen ari dira zerbitzuok."</string>
+<string name="common_google_play_services_wear_update_text" msgid="2804989272736383918">"Google Play zerbitzuen bertsio berria behar da. Berehala eguneratuko da automatikoki."</string>
+<string name="common_open_on_phone" msgid="5201977337835724196">"Ireki telefonoan"</string>
+<string name="common_signin_button_text" msgid="3441753203274453993">"Hasi saioa"</string>
+<string name="common_signin_button_text_long" msgid="669893613918351210">"Hasi saioa Google-n"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-eu/strings.xml -->
+<eat-comment/>
+<string name="s1" msgid="368094699078615544">"Gorde irudia"</string>
+<string name="s2" msgid="4550830452390689489">"Irudia irudien galerian gordetzea baimendu nahi diozu iragarkiari?"</string>
+<string name="s3" msgid="2435407834265420668">"Onartu"</string>
+<string name="s4" msgid="9167523597401839819">"Baztertu"</string>
+<string name="s5" msgid="1566682516266724847">"Sortu egutegiko gertaera bat"</string>
+<string name="s6" msgid="5996672174517137271">"Egutegiko gertaera bat sortzea baimendu nahi diozu iragarkiari?"</string>
 </resources>
