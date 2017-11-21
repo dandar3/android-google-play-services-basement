@@ -74,4 +74,8 @@
 <string name="s4" msgid="9167523597401839819">"Refuzo"</string>
 <string name="s5" msgid="1566682516266724847">"Krijo një ngjarje në kalendar"</string>
 <string name="s6" msgid="5996672174517137271">"Të lejohet që reklama të krijojë një ngjarje në kalendar?"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/firebase-messaging/res/values-sq/strings.xml -->
+<eat-comment/>
+<string name="fcm_fallback_notification_channel_label" msgid="4133737464567140336">"Të ndryshme"</string>
 </resources>

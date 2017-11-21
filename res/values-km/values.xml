@@ -74,4 +74,8 @@
 <string name="s4" msgid="9167523597401839819">"បដិសេធ"</string>
 <string name="s5" msgid="1566682516266724847">"បង្កើត​ព្រឹត្តិការណ៍​ក្នុង​ប្រតិទិន"</string>
 <string name="s6" msgid="5996672174517137271">"អនុញ្ញាត​ឲ្យ​ពាណិជ្ជកម្ម​បង្កើត​ព្រឹត្តិការណ៍​ក្នុង​ប្រតិទិន​ដែរទេ?"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/integ/client/firebase-messaging/res/values-km/strings.xml -->
+<eat-comment/>
+<string name="fcm_fallback_notification_channel_label" msgid="4133737464567140336">"ផ្សេងៗ"</string>
 </resources>
