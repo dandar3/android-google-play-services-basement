@@ -76,4 +76,8 @@
 <string name="s5" msgid="1566682516266724847">"Dala umcimbi wekhalenda"</string>
 <string name="s6" msgid="5996672174517137271">"Vumela Isikhangiso ukudala umcimbi wekhalenda?"</string>
 <string name="s7" msgid="7163549807207034258">"Hlola isikhangiso"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-hybrid-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/dev/client/firebase-messaging/res/values-zu/strings.xml -->
+<eat-comment/>
+<string name="fcm_fallback_notification_channel_label" msgid="4133737464567140336">"Okwahlukahlukene"</string>
 </resources>
