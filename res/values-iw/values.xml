@@ -78,4 +78,8 @@
 <string name="s5" msgid="1566682516266724847">"צור אירוע ביומן"</string>
 <string name="s6" msgid="5996672174517137271">"האם לאפשר למודעה ליצור אירוע ביומן?"</string>
 <string name="s7" msgid="7163549807207034258">"מודעת בדיקה"</string>
+
+<!-- blaze-out/gcc-4.X.Y-crosstool-v18-llvm-grtev4-k8-opt/genfiles/java/com/google/android/gmscore/dev/client/firebase-messaging/res/values-iw/strings.xml -->
+<eat-comment/>
+<string name="fcm_fallback_notification_channel_label" msgid="4133737464567140336">"שונות"</string>
 </resources>
