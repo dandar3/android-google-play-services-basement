@@ -70,4 +70,15 @@
 
 <attr name="scopeUris" format="reference|string"/>
 </declare-styleable>
+
+<!-- java/com/google/android/gmscore/integ/client/cast/res/values/cast_ids.xml -->
+<eat-comment/>
+
+<item name="cast_notification_id" type="id"/>
+<!-- java/com/google/android/gmscore/integ/client/cast/res/values/cast_strings.xml -->
+<eat-comment/>
+<string name="cast_notification_connected_message">Connected to <xliff:g id="name">%1$s</xliff:g></string>
+<string name="cast_notification_connecting_message">Connecting to <xliff:g id="name">%1$s</xliff:g></string>
+<string name="cast_notification_default_channel_name">Cast</string>
+<string name="cast_notification_disconnect">Disconnect</string>
 </resources>

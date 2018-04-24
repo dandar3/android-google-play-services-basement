@@ -23,4 +23,11 @@
 <string name="common_open_on_phone" msgid="5201977337835724196">"​ເປີດ​ໃນ​ໂທ​ລະ​ສັບ"</string>
 <string name="common_signin_button_text" msgid="3441753203274453993">"ລົງຊື່ເຂົ້າໃຊ້"</string>
 <string name="common_signin_button_text_long" msgid="669893613918351210">"ລົງຊື່ເຂົ້າໃຊ້ດ້ວຍ Google"</string>
+
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/cast/res/values-lo/cast_strings.xml -->
+<eat-comment/>
+<string name="cast_notification_connected_message" msgid="5319032370587661362">"ເຊື່ອມຕໍ່ຫາ <xliff:g id="NAME">%1$s</xliff:g> ແລ້ວ"</string>
+<string name="cast_notification_connecting_message" msgid="2758865089947797888">"ກຳລັງເຊື່ອມຕໍ່ຫາ <xliff:g id="NAME">%1$s</xliff:g>"</string>
+<string name="cast_notification_default_channel_name" msgid="2568179715202151240">"ການສົ່ງສັນຍານ"</string>
+<string name="cast_notification_disconnect" msgid="5232008641593292969">"ຕັດການເຊື່ອມຕໍ່"</string>
 </resources>
