@@ -78,4 +78,9 @@
 <string name="s5" msgid="1566682516266724847">"创建日历活动"</string>
 <string name="s6" msgid="5996672174517137271">"允许广告创建日历活动吗？"</string>
 <string name="s7" msgid="7163549807207034258">"测试广告"</string>
+
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/places/res/values-zh-rCN/strings.xml -->
+<eat-comment/>
+<string name="place_autocomplete_clear_button" msgid="1303870564366209730">"清除搜索内容"</string>
+<string name="place_autocomplete_search_hint" msgid="2809095107724486040">"搜索"</string>
 </resources>

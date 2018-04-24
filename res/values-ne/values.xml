@@ -78,4 +78,9 @@
 <string name="s5" msgid="1566682516266724847">"पात्रोमा कार्यक्रम सिर्जना गर्नुहोस्"</string>
 <string name="s6" msgid="5996672174517137271">"विज्ञापनलाई पात्रोमा कार्यक्रम सिर्जना गर्न अनुमति दिने हो?"</string>
 <string name="s7" msgid="7163549807207034258">"परीक्षण विज्ञापन"</string>
+
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/places/res/values-ne/strings.xml -->
+<eat-comment/>
+<string name="place_autocomplete_clear_button" msgid="1303870564366209730">"खोज खाली गर्नुहोस्"</string>
+<string name="place_autocomplete_search_hint" msgid="2809095107724486040">"खोज"</string>
 </resources>
