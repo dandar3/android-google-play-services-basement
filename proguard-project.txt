@@ -50,3 +50,8 @@
 
 # Internal Google annotations for generating Proguard keep rules.
 -dontwarn com.google.android.apps.common.proguard.UsedBy*
+
+# Annotations referenced by the SDK but whose definitions are contained in
+# non-required dependencies.
+-dontwarn javax.annotation.**
+-dontwarn org.checkerframework.**
