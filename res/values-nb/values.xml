@@ -68,4 +68,14 @@
 <string name="cast_tracks_chooser_dialog_ok" msgid="3804878371876790270">"OK"</string>
 <string name="cast_tracks_chooser_dialog_subtitles" msgid="2454147715032376208">"Undertekster"</string>
 <string name="cast_unmute" msgid="2913461521603516868">"Slå på lyden"</string>
+
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/admob-impl/res/values-nb/strings.xml -->
+<eat-comment/>
+<string name="s1" msgid="368094699078615544">"Lagre bilde"</string>
+<string name="s2" msgid="4550830452390689489">"Vil du la annonsen lagre bildet i bildegalleriet?"</string>
+<string name="s3" msgid="2435407834265420668">"Godta"</string>
+<string name="s4" msgid="9167523597401839819">"Avslå"</string>
+<string name="s5" msgid="1566682516266724847">"Opprett kalenderaktivitet"</string>
+<string name="s6" msgid="5996672174517137271">"Vil du la annonsen opprette en kalenderaktivitet?"</string>
+<string name="s7" msgid="7163549807207034258">"Testannonse"</string>
 </resources>
