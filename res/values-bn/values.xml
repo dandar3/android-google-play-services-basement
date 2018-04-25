@@ -83,4 +83,8 @@
 <eat-comment/>
 <string name="place_autocomplete_clear_button" msgid="1303870564366209730">"অনুসন্ধান সাফ করুন"</string>
 <string name="place_autocomplete_search_hint" msgid="2809095107724486040">"খুঁজুন"</string>
+
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/dev/client/firebase-messaging/res/values-bn/strings.xml -->
+<eat-comment/>
+<string name="fcm_fallback_notification_channel_label" msgid="4133737464567140336">"বিবিধ"</string>
 </resources>
