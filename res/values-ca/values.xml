@@ -23,4 +23,11 @@
 <string name="common_open_on_phone" msgid="5201977337835724196">"Obre al telèfon"</string>
 <string name="common_signin_button_text" msgid="3441753203274453993">"Inicia sessió"</string>
 <string name="common_signin_button_text_long" msgid="669893613918351210">"Inicia la sessió amb Google"</string>
+
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/cast/res/values-ca/cast_strings.xml -->
+<eat-comment/>
+<string name="cast_notification_connected_message" msgid="5319032370587661362">"S\'ha connectat a <xliff:g id="NAME">%1$s</xliff:g>"</string>
+<string name="cast_notification_connecting_message" msgid="2758865089947797888">"S\'està connectant a <xliff:g id="NAME">%1$s</xliff:g>"</string>
+<string name="cast_notification_default_channel_name" msgid="2568179715202151240">"Cast"</string>
+<string name="cast_notification_disconnect" msgid="5232008641593292969">"Desconnecta"</string>
 </resources>

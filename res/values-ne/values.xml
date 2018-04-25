@@ -23,4 +23,11 @@
 <string name="common_open_on_phone" msgid="5201977337835724196">"फोनमा खोल्नुहोस्"</string>
 <string name="common_signin_button_text" msgid="3441753203274453993">"साइन इन गर्नुहोस्"</string>
 <string name="common_signin_button_text_long" msgid="669893613918351210">"Google मार्फत साइन‍ इन गर्नुहोस्"</string>
+
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/cast/res/values-ne/cast_strings.xml -->
+<eat-comment/>
+<string name="cast_notification_connected_message" msgid="5319032370587661362">"<xliff:g id="NAME">%1$s</xliff:g> मा जडान गरियो"</string>
+<string name="cast_notification_connecting_message" msgid="2758865089947797888">"<xliff:g id="NAME">%1$s</xliff:g> मा जडान गर्दै"</string>
+<string name="cast_notification_default_channel_name" msgid="2568179715202151240">"Cast"</string>
+<string name="cast_notification_disconnect" msgid="5232008641593292969">"विच्छेद गर्नुहोस्"</string>
 </resources>

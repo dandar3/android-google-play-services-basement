@@ -23,4 +23,11 @@
 <string name="common_open_on_phone" msgid="5201977337835724196">"ఫోన్‌లో తెరువు"</string>
 <string name="common_signin_button_text" msgid="3441753203274453993">"సైన్ ఇన్ చేయి"</string>
 <string name="common_signin_button_text_long" msgid="669893613918351210">"Googleతో సైన్ ఇన్ చేయి"</string>
+
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/cast/res/values-te/cast_strings.xml -->
+<eat-comment/>
+<string name="cast_notification_connected_message" msgid="5319032370587661362">"<xliff:g id="NAME">%1$s</xliff:g>కు కనెక్ట్ చేయబడింది"</string>
+<string name="cast_notification_connecting_message" msgid="2758865089947797888">"<xliff:g id="NAME">%1$s</xliff:g>కు కనెక్ట్ చేస్తోంది"</string>
+<string name="cast_notification_default_channel_name" msgid="2568179715202151240">"ప్రసారం"</string>
+<string name="cast_notification_disconnect" msgid="5232008641593292969">"డిస్‌కనెక్ట్ చేయి"</string>
 </resources>
