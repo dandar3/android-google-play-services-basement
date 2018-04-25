@@ -78,4 +78,9 @@
 <string name="s5" msgid="1566682516266724847">"Skapa kalenderhändelse"</string>
 <string name="s6" msgid="5996672174517137271">"Tillåter du att annonsen skapar en kalenderhändelse?"</string>
 <string name="s7" msgid="7163549807207034258">"Testannons"</string>
+
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/places/res/values-sv/strings.xml -->
+<eat-comment/>
+<string name="place_autocomplete_clear_button" msgid="1303870564366209730">"Rensa sökning"</string>
+<string name="place_autocomplete_search_hint" msgid="2809095107724486040">"Söka"</string>
 </resources>

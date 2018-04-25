@@ -78,4 +78,9 @@
 <string name="s5" msgid="1566682516266724847">"Прављење догађаја у календару"</string>
 <string name="s6" msgid="5996672174517137271">"Желите ли да дозволите да оглас направи догађај у календару?"</string>
 <string name="s7" msgid="7163549807207034258">"Пробни оглас"</string>
+
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/places/res/values-sr/strings.xml -->
+<eat-comment/>
+<string name="place_autocomplete_clear_button" msgid="1303870564366209730">"Брисање претраге"</string>
+<string name="place_autocomplete_search_hint" msgid="2809095107724486040">"Претражите"</string>
 </resources>

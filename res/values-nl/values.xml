@@ -78,4 +78,9 @@
 <string name="s5" msgid="1566682516266724847">"Agenda-afspraak maken"</string>
 <string name="s6" msgid="5996672174517137271">"Advertentie toestaan om een agenda-afspraak te maken?"</string>
 <string name="s7" msgid="7163549807207034258">"Testadvertentie"</string>
+
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/client/places/res/values-nl/strings.xml -->
+<eat-comment/>
+<string name="place_autocomplete_clear_button" msgid="1303870564366209730">"Zoekopdracht wissen"</string>
+<string name="place_autocomplete_search_hint" msgid="2809095107724486040">"Zoeken"</string>
 </resources>
