@@ -83,4 +83,8 @@
 <eat-comment/>
 <string name="place_autocomplete_clear_button" msgid="1303870564366209730">"Aramayı temizle"</string>
 <string name="place_autocomplete_search_hint" msgid="2809095107724486040">"Ara"</string>
+
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/dev/client/firebase-messaging/res/values-tr/strings.xml -->
+<eat-comment/>
+<string name="fcm_fallback_notification_channel_label" msgid="4133737464567140336">"Çeşitli"</string>
 </resources>

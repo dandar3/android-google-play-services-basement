@@ -480,4 +480,8 @@
 <eat-comment/>
 <string name="place_autocomplete_clear_button">Clear search</string>
 <string name="place_autocomplete_search_hint">Search</string>
+
+<!-- java/com/google/android/gmscore/dev/client/firebase-messaging/res/values/strings.xml -->
+<eat-comment/>
+<string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
 </resources>
