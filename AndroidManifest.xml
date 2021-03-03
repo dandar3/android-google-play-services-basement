@@ -16,8 +16,8 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.google.android.gms.common" 
-    android:versionCode="1711"
-    android:versionName="17.1.1">
+    android:versionCode="1720"
+    android:versionName="17.2.0">
 
     <uses-sdk android:minSdkVersion="14" />
 

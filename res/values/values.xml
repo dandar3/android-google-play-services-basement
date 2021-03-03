@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding='utf-8' standalone='no'?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/res/values/gmscore_version.xml -->
+<!-- blaze-out/k8-opt/genfiles/java/com/google/android/gmscore/integ/fast/res/values/gmscore_version.xml -->
 <eat-comment/>
 <integer name="google_play_services_version">12451000</integer>
 <!-- java/com/google/android/gmscore/integ/client/common/res/values/strings.xml -->
